@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <config>
+        
+    </config>
+    <connections>
+            <!-- <connection>                   -->
+            <!--    <name></name>               -->
+            <!--    <server></server>           -->
+            <!--    <port></port>               -->
+            <!--    <collection></collection>   -->
+            <!-- </connection>                  -->
+            <connection>
+                <name>113</name>
+                <server>192.168.1.113</server>
+                <port>27017</port>
+                <collection>et_training_1_1</collection>
+            </connection>
+            <connection>
+                <name>127.0.0.1</name>
+                <server>127.0.0.1</server>
+                <port>27017</port>
+                <collection></collection>
+            </connection>
+    </connections>
+</root>
